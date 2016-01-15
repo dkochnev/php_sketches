@@ -74,7 +74,7 @@
 
 
   	echo "<br /> <br />";	
-  	echo "<strong>Getting a Sentence that consists of 3, 4, 5, 6 words: </strong><br />";
+  	echo "<strong>Getting a Sentence that consists of 4, 5, 6, 7 or 8 words: </strong><br />";
 
   	
 
